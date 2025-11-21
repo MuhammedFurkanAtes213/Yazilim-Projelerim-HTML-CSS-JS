@@ -1,1 +1,0 @@
-# Yaz-l-m-Projelerim-HTML
