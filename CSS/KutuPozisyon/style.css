@@ -1,0 +1,26 @@
+body {
+  background-color: aquamarine;
+}
+div {
+  border-color: indianred;
+  border-style: solid;
+}
+#buyuk {
+  width: 200px;
+  height: 100px;
+  background-color: khaki;
+  position: fixed;
+  right: 0px;
+  bottom: 0px;
+  z-index: 1;
+  border-radius: 30px 30px 30px 50px;
+}
+
+#kucuk {
+  width: 100px;
+  height: 50px;
+  background-color: lawngreen;
+  position: absolute;
+  left: 10px;
+  top: 10px;
+}
