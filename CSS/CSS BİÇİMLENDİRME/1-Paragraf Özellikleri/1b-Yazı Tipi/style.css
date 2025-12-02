@@ -1,0 +1,30 @@
+h1 {
+  color: blue;
+}
+
+p {
+  /*Paragraf Özellikleri*/
+  text-indent: 40px;
+  text-align: center;
+  /*Metin Özellikleri*/
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: green;
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  font-variant: small-caps;
+  text-transform: capitalize;
+  text-decoration: none;
+  letter-spacing: 1px;
+  word-spacing: 5px;
+}
+.metin {
+  color: violet;
+  font-size: 10px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  background-color: black;
+  background-image: url(Pictures/TurkiyeDalgalıGökyüzünde.jpg);
+  background-size: 150px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
