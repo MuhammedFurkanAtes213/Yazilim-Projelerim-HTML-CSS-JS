@@ -1,0 +1,28 @@
+table{
+    color: blue;
+    background-color: yellow;
+    width: 600px;
+    height: 600px;
+}
+th{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    font-weight: bolder;
+    color: red;
+    background-color: seagreen;
+    padding: 5px;
+    margin: 10px;
+    background-image: url(Pictures/TurkiyeDalgalıGökyüzünde.jpg);}
+
+td{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12px;
+    font-style: italic;
+    font-weight: bolder;
+    background-color: yellow;
+    text-align: left;
+    padding: 5px;
+    margin: 5px;
+    border-color: brown;
+    border-width: 3px;
+}
